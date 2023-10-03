@@ -6,3 +6,15 @@ addToCartButton.addEventListener('click', () => {
     console.log('Producto agregado al carrito');
   implemento una mejora  en el carrito de compras;
 });
+
+// Cantidad de Productos
+ if (cantidad <= cantidadActual) {
+        // Actualizar la cantidad en el inventario
+        const nuevaCantidad = cantidadActual - cantidad;
+
+        // Mostrar mensaje de compra exitosa
+        alert(`Compra exitosa: ${cantidad} unidades de ${producto}`);
+    } else {
+        // Mostrar mensaje de error si no hay suficiente cantidad
+        alert(`No hay suficiente cantidad de ${producto} en el inventario.`);
+    }
