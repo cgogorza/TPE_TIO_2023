@@ -1,1 +1,2 @@
-Agregar dos líneas de texto en el archivo “informacion.txt”. Confirmar el cambio y poner un nombre representativo
+Agregar dos líneas de texto en el archivo “informacion.txt”. Confirmar el cambio y poner un nombre representativo.
+"Realicé cambios por problemas de funcionalidad"
