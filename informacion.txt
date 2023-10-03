@@ -1,0 +1,1 @@
+Agregar dos líneas de texto en el archivo “informacion.txt”. Confirmar el cambio y poner un nombre representativo
