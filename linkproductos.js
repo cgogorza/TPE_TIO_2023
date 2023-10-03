@@ -8,9 +8,9 @@ productsLink.addEventListener('click', (event) => {
 });
 
 // Manejo del formulario de seguimiento
-document.getElementById('seguimiento-form').addEventListener('submit', function (e) {
+document.getElementById('seguimiento-form').addEventListener('submit', function (e){
     e.preventDefault();
-
+})
 // Mostrar el resultado del seguimiento
     if (pedidoEncontrado) {
         document.getElementById('resultado-seguimiento').innerHTML = `
